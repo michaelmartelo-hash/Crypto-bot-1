@@ -6,3 +6,4 @@ matplotlib
 requests
 pytz
 python-dateutil
+imghdr
